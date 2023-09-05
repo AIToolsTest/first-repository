@@ -6,3 +6,5 @@ README.md file was just added manually. One more edit via github. And a final ed
 AND ONE MORE -- LOCAL
 
 Plus one remote.
+
+AND ONE LOCAL FOR THE  ____  CONFLICT!!
